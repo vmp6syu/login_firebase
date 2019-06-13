@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "919263560995",
+    "firebase_url": "https://yuntech-project-a5cb0.firebaseio.com",
+    "project_id": "yuntech-project-a5cb0",
+    "storage_bucket": "yuntech-project-a5cb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919263560995:android:7231c3f847f37e08",
+        "android_client_info": {
+          "package_name": "com.example.michome_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919263560995-l2hung1e03mhlmebj74kku3iopfuh25f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.michome_v1",
+            "certificate_hash": "19b1779e795024f520afcbc63c042687f890ca89"
+          }
+        },
+        {
+          "client_id": "919263560995-emhnbbj5lm26fq4cksbpbcc4b59ch2n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHI60A4IQ228O8_KhKYWu_9twVBG14k-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919263560995-emhnbbj5lm26fq4cksbpbcc4b59ch2n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919263560995:android:eb5842ffccdc64d8",
+        "android_client_info": {
+          "package_name": "com.example.tttt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919263560995-42nuke8hqfast51c5teng0ptf7icuat1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tttt",
+            "certificate_hash": "080f9f94a09cddfb6249038c9b03e0f91ec4066e"
+          }
+        },
+        {
+          "client_id": "919263560995-emhnbbj5lm26fq4cksbpbcc4b59ch2n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHI60A4IQ228O8_KhKYWu_9twVBG14k-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919263560995-emhnbbj5lm26fq4cksbpbcc4b59ch2n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919263560995:android:a9ace86776c351d5",
+        "android_client_info": {
+          "package_name": "project.yuntech.michome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919263560995-emhnbbj5lm26fq4cksbpbcc4b59ch2n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHI60A4IQ228O8_KhKYWu_9twVBG14k-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919263560995-emhnbbj5lm26fq4cksbpbcc4b59ch2n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
